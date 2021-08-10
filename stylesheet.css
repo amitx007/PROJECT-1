@@ -1,0 +1,175 @@
+
+.container img{
+    width: 1907px;
+    height: 1703px;
+}
+.aboutus{
+    width: 589px;
+    height: 431px;
+    border: 2px solid #DA0037;
+    position: absolute;
+    top: 464px;
+    left:1096px;
+}
+.contactusform{
+    border: 2px solid red;
+    width: 600px;
+    height: 601px;
+    position: absolute;
+    top: 1086px;
+    left:176px;
+}
+.aboutus h3 , .contactusform h3{
+    color:#EDEDED ;
+    padding: 0px;
+    margin: 0px;
+    padding-left: 48PX;
+    margin-top: 32px;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 60px;
+}
+.aboutus p {
+    color: white;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 3px;
+    margin: 32px;
+
+}
+.inputname{
+    margin-left: 52px;
+    margin-top: 31px;
+    width: 456px;
+    height: 29px;
+    border-style: none;
+    border-radius: 14px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: large;
+    font-weight: bold;
+}
+.inputshort{
+    margin-left: 52px;
+    margin-top: 31px;
+    width: 200px;
+    height: 29px;
+    border-style: none;
+    border-radius: 14px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: large;
+    font-weight: bold;
+}
+.inputemail{
+    margin-left: 52px;
+    margin-top: 31px;
+    width: 329px;
+    height: 29px;
+    border-style: none;
+    border-radius: 14px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: large;
+    font-weight: bold;
+}
+.textarea{
+    margin-left: 52px;
+    margin-top: 31px;
+    width: 455px;
+    height: 205px;
+    border-style: none;
+    border-radius: 14px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: large;
+    font-weight: bold;
+}
+.submit{
+    width: 100px;
+    display: block;
+    margin-left: 52px;
+    margin-top: 25px;
+    border-style: none;
+    border-radius: 14px;
+    font-family: 'Raleway', sans-serif;
+    font-size: large;
+    font-weight: bold;
+    cursor: pointer;
+}
+.left{
+    margin-left: 10px;
+    width: 161px;
+    height: 100px;
+    display: inline-block;
+    position: absolute;
+    top: 12px;
+    color: #EDEDED;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: larger;
+    font-weight: bold;
+}
+.left img{
+    width: 161px;
+    height: 100px;
+    opacity: .5;
+    
+}
+
+.center{
+    
+    /* border: 2px solid red; */
+    margin: 10px;
+    width: 480px;
+    display: inline-block;
+    position: absolute;
+    top: 12px;
+    left: 690px;
+    padding: 18px;
+    padding-top: 8px;
+}
+.center li{
+    list-style: none;
+    float: left;
+    margin-left: 25px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: large;
+    font-weight: bolder;
+}
+.center a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.center a:hover {
+    color: #DA0037;
+    border-bottom:12px #444444 dotted ;
+
+}
+
+.right{
+    margin: 10px;
+    width: 134px;
+    height: 100px;
+    display: inline-block;
+    position: absolute;
+    top: 12px;
+    left: 1669px;
+}
+.btn{
+    width: 133px;
+    margin-bottom: 12px;
+    padding:6px;
+    border: none;
+    border-radius: 16px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    background-color:#444444 ;
+    cursor: pointer;
+    color: white;
+}
+.btn:hover{
+    background-color: black;
+}
